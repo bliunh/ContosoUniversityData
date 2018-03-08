@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <Name>ContosoUniverisityData</Name>
+    <Name>ContosoUniversityData</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{d5fcacde-239c-4494-b86b-594388865cd4}</ProjectGuid>
@@ -12,8 +12,8 @@
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
-    <RootNamespace>ContosoUniverisityData</RootNamespace>
-    <AssemblyName>ContosoUniverisityData</AssemblyName>
+    <RootNamespace>ContosoUniversityData</RootNamespace>
+    <AssemblyName>ContosoUniversityData</AssemblyName>
     <ModelCollation>1033, CI</ModelCollation>
     <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
     <DeployToDatabase>True</DeployToDatabase>
